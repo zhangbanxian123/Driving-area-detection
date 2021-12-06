@@ -12,7 +12,7 @@ Workflow:![workflow](https://github.com/zhangbanxian123/Driving-area-detection/b
 **example img of origin, colored input and output**:  
 **origin**
 ![orgin](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/b1d0a191-2ed2269e.jpg)
-**colored input**  
+**colored output of segmentation network**  
 ![colored input](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/trt_img.jpg)
 **output**
 ![output](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/out.png)  
