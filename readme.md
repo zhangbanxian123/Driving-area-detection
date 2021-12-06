@@ -10,7 +10,7 @@ Workflow:![workflow](https://github.com/zhangbanxian123/Driving-area-detection/b
 **input**:The label map output by the semantic segmentation network.  
 **output**:colored label map of lanes.  
 **example img of input and output**:
-![input](https://github.com/zhangbanxian123/Driving-area-detection/blob/gray.png)  
-![output](https://github.com/zhangbanxian123/Driving-area-detection/blob/trt_img.jpg)
+![input](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/gray.png)  
+![output](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/trt_img.jpg)
 
 
