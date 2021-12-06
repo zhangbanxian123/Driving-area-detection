@@ -9,9 +9,12 @@ Workflow:![workflow](https://github.com/zhangbanxian123/Driving-area-detection/b
 
 **input**:The label map output by the semantic segmentation network.  
 **output**:colored label map of lanes.  
-**example img of origin, input and output**:
+**example img of origin, colored input and output**:  
+**origin**
 ![orgin](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/b1d0a191-2ed2269e.jpg)
-![input](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/gray.png)  
-![output](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/trt_img.jpg)  
+**colored input**  
+![colored input](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/trt_img.jpg)
+**output**
+![output](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/out.png)  
 
-Because the output label of the semantic segmentation network is [0,1,2], which is close to 0, so the input of this work viewed as black.
+
