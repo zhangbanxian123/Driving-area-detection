@@ -1,7 +1,8 @@
 # Post-processing of the drivable area(C++)![GitHub](https://img.shields.io/github/license/daohu527/Dig-into-Apollo.svg?style=popout)
 
 Modify the verified driveable area post-processing and modify it to the C++ version.  
-Workflow:![workflow](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/workflow.png)
+Workflow:  
+![workflow](https://github.com/zhangbanxian123/Driving-area-detection/blob/master/workflow.png)
 
 
 
